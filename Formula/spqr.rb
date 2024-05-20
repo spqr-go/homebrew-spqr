@@ -3,7 +3,7 @@ class Spqr < Formula
     homepage "https://github.com/spqr-go/spqr"
     url "https://github.com/spqr-go/spqr/releases/download/spqr-v1/spqr"
     version "0.1.1"
-    sha256 "4848df26b2c33d6f263ecbe841cc8b0e627537b0c281abb3fc2235e6125c7704"
+    sha256 "f02ec499cc27e23899f0361625fdb3ee4820a6d057adad30413f406102acf1f0"
     license "MIT"
   
     def install
